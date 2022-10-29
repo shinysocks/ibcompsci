@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class QuadraticCalc {
-
 	//variables
 	static Scanner scan = new Scanner(System.in);
 	static int rootsCount;
