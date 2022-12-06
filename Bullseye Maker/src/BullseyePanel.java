@@ -3,7 +3,7 @@ import java.awt.Color;
 import java.awt.Dimension;
 
 public class BullseyePanel extends JPanel {
-    final int NUM_RINGS = 5;
+	final int NUM_RINGS = 5;
 
     public BullseyePanel()
     {

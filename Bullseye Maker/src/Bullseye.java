@@ -1,19 +1,15 @@
 import javax.swing.JFrame;
 
 public class Bullseye extends JFrame{
-
-    public Bullseye()
-    {
-        this.setTitle("Bull's Eye");
-
+   
+    public static void main(String[] args) {
+        JFrame frame = new JFrame();
+    	frame.setTitle("Bull's Eye");
         BullseyePanel bp = new BullseyePanel();
-        // add panel to this frame
-        this.add(bp);
-
-        this.setDefaultCloseOperation(EXIT_ON_CLOSE);
-        this.pack();
-        this.setVisible(true);
-    }
-
-    
+        
+        frame.setDefaultCloseOperation(EXIT_ON_CLOSE);
+        frame.setVisible(true);
+        frame.pack();
+        frame.add(bp);
+	}
 }
