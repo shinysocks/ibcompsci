@@ -1,9 +1,10 @@
 applyBackground=false
-configurationInstallLocation=/snap/eclipse/63/
+approved.defs.file.last.changed.time=1649720987000
+configurationInstallLocation=/snap/eclipse/66/
 eclipse.preferences.version=1
 iconcolormode=grayscale
 includeThemingInOomph=false
-last.download.attempt.time=1669829978389
-lastConfiguration=1669829958639
+last.download.attempt.time=1672855287563
+lastConfiguration=1672855271384
 newinstall=true
 workbench.theme=Deep Black
