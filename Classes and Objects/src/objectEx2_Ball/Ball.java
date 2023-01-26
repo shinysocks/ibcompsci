@@ -20,7 +20,5 @@ public class Ball
 	{
 		g.setColor(Color.BLACK);
 		g.fillOval(x, y, radius*2, radius*2);
-		
-		Graphics2D g2 
 	}
 }
