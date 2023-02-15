@@ -1,3 +1,5 @@
+package moreballs;
+
 import javax.swing.JFrame;
 
 public class MyFrame {

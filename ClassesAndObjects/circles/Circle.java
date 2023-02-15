@@ -1,3 +1,5 @@
+package circles;
+
 public class Circle {
 	//states - instance variable
 	int centerX;

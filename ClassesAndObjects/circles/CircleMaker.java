@@ -1,3 +1,4 @@
+package circles;
 
 public class CircleMaker {
 
