@@ -1,10 +1,9 @@
 import javax.swing.JFrame;
 
-public class MainDriver extends JFrame{
+public class MainDriver extends JFrame {
 	GamePanel gp = new GamePanel();
 	
-	public MainDriver()
-	{
+	public MainDriver() {
 		this.setTitle("Mario");
 		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 		this.add(gp);
@@ -13,8 +12,7 @@ public class MainDriver extends JFrame{
 		this.setResizable(false);
 	}
 	
-	public static void main(String[] args)
-	{
+	public static void main(String[] args) {
 		new MainDriver();
 	}
 }
